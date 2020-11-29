@@ -4,7 +4,7 @@ This portfolio bootstrapped with [Next.JS](https://nextjs.org/) and [Tailwind CS
 
 ### ⬛ Dark Mode Version
 
-![Portfolio-Dark](https://kaguwo.is-inside.me/uCPF1Boi.png)
+![Portfolio-Dark](https://kaguwo.is-inside.me/rv9271kg.png)
 
 ### ⬜ Light Mode Version
 
