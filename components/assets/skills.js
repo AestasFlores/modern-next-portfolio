@@ -26,7 +26,7 @@ export default function Skills() {
                                 When I started to learn front-end development from scratch, it was hard. It's just <strong>hard.</strong> First month of learning HTML & CSS needs patience for write more understandable code blocks on your editor. After the first month, I tried to find easy ways to add more amazing stuff on my website and I found some frameworks whose supports plugins. Angular, Vue etc. but one of them impressed me. It was React. With this eco-system and understandable syntax, that day is the wonderful day for me. 💙
                             </p>
                             <a className="mt-3 text-blue-500 inline-flex items-center hover:underline" href="https://reactjs.org/">Learn More
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
                             </a>
@@ -42,7 +42,7 @@ export default function Skills() {
                                 Everyone who interacts with programming is very familiar with this wonderful language, JavaScript, so at least I think so. I started to learn this language when I'm trying to add new modules on my React apps. Actually, I got more experience with JS but it's not related with front-end development. It's related about Node.JS applications. (Like Discord/Telegram Bots, Calendar, Calculator apps etc.)
                             </p>
                             <a className="mt-3 text-yellow-500 inline-flex items-center hover:underline" href="https://www.javascript.com/">Learn More
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
                             </a>
@@ -58,7 +58,7 @@ export default function Skills() {
                                 Well, September 5 - 2019... I remember very well when I bought my first MacBook with 4 months of summer work. I was fill-in happiness when I opening the box. It was exciting... But there's a reason I bought my MacBook. Swift Programming Language. On these days, I was using iPhone 6 and I want to create a special application for myself. So I researched about iOS, watchOS and macOS apps, I saw that there's a one optimised, created by Apple. You guesssed, it's Swift. So far I've created 3 apps, they all suck. So I stopped learning Swift and decided to learn React Native for the easiest way. 😂
                             </p>
                             <a className="mt-3 text-yellow-600 inline-flex items-center hover:underline" href="https://swift.org/">Learn More
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                                <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
                             </a>
