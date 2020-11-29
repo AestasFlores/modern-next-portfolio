@@ -1,6 +1,6 @@
-This portfolio bootstrapped with [Next.JS](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
+# This portfolio bootstrapped with [Next.JS](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
-# 🌟 Examples:
+## 🌟 Examples:
 
 ### ⬛ Dark Mode Version
 
