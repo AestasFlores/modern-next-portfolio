@@ -18,11 +18,11 @@ This portfolio bootstrapped with [Next.JS](https://nextjs.org/) and [Tailwind CS
 git clone https://github.com/kaguwomin/modern-next-portfolio
 # after cloning repository:
 yarn
-
-(You should use Yarn for getting all node_modules of repository.)
 ```
 
-After the installation, run the development server:
+(You should use [Yarn](https://yarnpkg.com/) for getting all node_modules of repository.)
+
+### After the installation, run the development server:
 
 ```bash
 npm run dev
