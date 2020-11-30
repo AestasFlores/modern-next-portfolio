@@ -18,9 +18,9 @@
 git clone https://github.com/kaguwomin/modern-next-portfolio
 # after cloning repository:
 yarn
+#or
+npm install
 ```
-
-(You should use [Yarn](https://yarnpkg.com/) for getting all node_modules of repository.)
 
 ### After the installation, run the development server:
 
