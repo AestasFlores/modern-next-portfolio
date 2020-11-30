@@ -7,7 +7,7 @@ export default function Skills() {
         <section className="text-black bg-gray-100 body-font dark:text-white dark:bg-gray-800">
             <div className="container px-4 py-24 mx-auto">
                 <div className="text-center mb-20">
-                    <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">Coding Skills</h1>
+                    <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">Experience</h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
                         To be honest, I'm currently working for like <strong>3 years</strong> in this programming industry. I tried so many back-end languages in past but I don't understand of anything... so I tried my chance with front-end development and today, I'm creating amazing websites to my customers and they like my designs.
                     </p>
