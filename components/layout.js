@@ -1,5 +1,5 @@
 import Card from './assets/card'
-import Skills from './assets/skills'
+import Experience from './assets/experience'
 import Footer from './assets/footer'
 
 export default function Layout({ children }) {
@@ -7,7 +7,7 @@ export default function Layout({ children }) {
         <div>
             <main>
                 <Card />
-                <Skills />
+                <Experience />
                 <Footer />
                 {children}
             </main>
