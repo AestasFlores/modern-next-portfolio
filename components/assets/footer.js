@@ -7,7 +7,7 @@ export default function Footer() {
                 <div className="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 md:mb-0 mb-10 pb-10 border-b border-gray-800">
                     <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Made with 💜 by Kaguwo.</h1>
                     <p className="leading-relaxed text-base">
-                        Most of the components are taken from GitHub and other template websites. I'm gonna give all of the links that I tried to create this portfolio for everyone's useage. Want to contribute this project? Send your GitHub pull-up request to repository and let me check every details of your changed/added assets to website.
+                        Most of the components are taken from GitHub and other template websites. I'm gonna give all of the links that I tried to create this portfolio for everyone's usage. Want to contribute this project? Send your GitHub pull request to repository and let me check every details of your changed/added assets to website.
                     </p>
                     <a className="text-purple-500 inline-flex items-center mt-4" href="https://github.com/kaguwomin/modern-next-portfolio"> GitHub Repository
                         <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
