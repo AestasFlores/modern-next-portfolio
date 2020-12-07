@@ -27,11 +27,11 @@ export default function Card() {
                             <FaTwitter />
                             <span className="sr-only">Twitter</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-700 hover:bg-blue-700 rounded-full hover:text-white transition-colors duration-300" href="https://kaguwo.com/discord">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="https://kaguwo.com/discord">
                             <FaDiscord />
                             <span className="sr-only">Discord</span>
                         </a>
-                        <a className="text-xl mt-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="mailto:business@kaguwo.com">
+                        <a className="text-xl mt-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="mailto:business@kaguwo.com">
                             <FaRegPaperPlane />
                             <span className="sr-only">Email</span>
                         </a>
