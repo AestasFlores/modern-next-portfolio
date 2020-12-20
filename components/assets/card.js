@@ -9,7 +9,7 @@ export default function Card() {
         <div className="w-full">
             <div className="flex flex-col justify-center max-w-xs my-8 mx-auto bg-white shadow-xl rounded-xl p-5 dark:bg-gray-900">
                 <div className="">
-                    <img className="w-32 mx-auto shadow-xl rounded-full hover:rounded-lg" src={pfp} alt="Kaguwo's PFP" />
+                    <img className="w-32 mx-auto shadow-xl rounded-full" src={pfp} alt="Kaguwo's PFP" />
                 </div>
                 <div className="text-center mt-5">
                     <p className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-50">
