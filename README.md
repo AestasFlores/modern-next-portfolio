@@ -52,3 +52,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 👥 How to Contribute
 
 You can share your new ideas for this portfolio with pull requesting your new changes/assets! I'll look your pull request as soon as possible!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4830e949-5c9a-4419-a21f-6566b68922a9/deploy-status)](https://app.netlify.com/sites/kaguwos-portfolio/deploys)
