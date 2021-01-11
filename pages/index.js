@@ -18,6 +18,14 @@ export default function Home() {
         url: 'https://www.kaguwo.js.org',
         title: 'Kaguwo\'s Portfolio',
         description: 'A neoterically designed portfolio, made with Next.JS and Tailwind CSS. Check out this website source on Github!',
+        images: [
+          {
+            url: 'https://cdn.discordapp.com/attachments/790306779409678356/798156848237903882/Artboard2.png',
+            width: 900,
+            height: 550,
+            alt: 'Kaguw\'o-ween Banner',
+          },
+        ],
       }}
     />
         
