@@ -1,6 +1,6 @@
 import pfp from '../../public/profile.jpeg'
 import { FaGithub } from 'react-icons/fa'
-import { FaTwitter } from 'react-icons/fa'
+import { FaTwitch } from 'react-icons/fa'
 import { FaRegPaperPlane } from 'react-icons/fa'
 import { FaDiscord } from 'react-icons/fa'
 
@@ -23,8 +23,8 @@ export default function Card() {
                             <FaGithub />
                             <span className="sr-only">Github</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitter.com/kaguwomin">
-                            <FaTwitter />
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitter.com/kaguwomin">
+                            <FaTwitch />
                             <span className="sr-only">Twitter</span>
                         </a>
                         <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="https://discord.gg/VvN88r3">
