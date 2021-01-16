@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Layout from '../components/layout'
-import config from '../config.js'
+import favi from '../public/favicon.ico'
 import { NextSeo } from 'next-seo'
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Kaguwo's Portfolio</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="icon" href={config.to.favicon} />
+        <link rel="icon" href={favi} />
       </Head>
       
       <NextSeo
