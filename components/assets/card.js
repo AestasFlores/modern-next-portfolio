@@ -23,7 +23,7 @@ export default function Card() {
                             <FaGithub />
                             <span className="sr-only">Github</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitter.com/kaguwomin">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitch.tv/kaguwomin">
                             <FaTwitch />
                             <span className="sr-only">Twitter</span>
                         </a>
