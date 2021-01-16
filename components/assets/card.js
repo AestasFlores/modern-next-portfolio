@@ -1,15 +1,16 @@
-import pfp from '../../public/profile.jpeg'
 import { FaGithub } from 'react-icons/fa'
 import { FaTwitch } from 'react-icons/fa'
 import { FaRegPaperPlane } from 'react-icons/fa'
 import { FaDiscord } from 'react-icons/fa'
+
+import config from '../../config.js'
 
 export default function Card() {
     return (
         <div className="w-full">
             <div className="flex flex-col justify-center max-w-xs my-8 mx-auto bg-white shadow-xl rounded-xl p-5 dark:bg-gray-900">
                 <div className="">
-                    <img className="w-32 mx-auto shadow-xl rounded-full" src='https://cdn.discordapp.com/avatars/495584014934081538/c40c757524f594429d6d15b37fc484e7.png?size=1024' alt="Kaguwo's PFP" />
+                    <img className="w-32 mx-auto shadow-xl rounded-full" src={config.to.image} alt="Kaguwo's PFP" />
                 </div>
                 <div className="text-center mt-5">
                     <p className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-50">
