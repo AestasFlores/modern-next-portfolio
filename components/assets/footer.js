@@ -9,7 +9,7 @@ export default function Footer() {
                     <p className="leading-relaxed text-base">
                         Most of the components are taken from GitHub and other template websites. I'm gonna give all of the links that I tried to create this portfolio for everyone's usage. Want to contribute this project? Send your GitHub pull request to repository and let me check every details of your changed/added assets to website.
                     </p>
-                    <a className="text-purple-500 inline-flex items-center mt-4 hover:underline" href="https://github.com/kaguwomin/modern-next-portfolio"> GitHub Repository
+                    <a className="text-purple-500 inline-flex items-center mt-4 hover:underline" href="https://github.com/AestasFlores/modern-next-portfolio"> GitHub Repository
                         <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                             <path d="M5 12h14M12 5l7 7-7 7"></path>
                         </svg>
