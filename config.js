@@ -1,5 +1,5 @@
 export default {
    to: {
-     image: 'https://cdn.discordapp.com/avatars/495584014934081538/035730b230ee9d3334edfef5f1cf6a1e.png?size=1024'
+     image: 'https://cdn.discordapp.com/avatars/495584014934081538/82a85dc6dd34d4c0a68fc633da9fffa5.png?size=1024'
   },
 };
