@@ -20,15 +20,15 @@ export default function Card() {
                         Front-End Developer
                     </p>
                     <div className="flex align-center justify-center mt-4">
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300 dark:text-gray-200 dark:hover:bg-gray-500" href="https://github.com/kaguwomin">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300 dark:text-gray-200 dark:hover:bg-gray-500" href="https://github.com/kaguwo">
                             <FaGithub />
                             <span className="sr-only">Github</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitch.tv/kaguwomin">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-purple-500 hover:bg-purple-500 rounded-full hover:text-white transition-colors duration-300" href="https://twitch.tv/lancastlery">
                             <FaTwitch />
                             <span className="sr-only">Twitter</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="https://discord.gg/VvN88r3">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-indigo-500 hover:bg-indigo-500 rounded-full hover:text-white transition-colors duration-300" href="https://discord.com/users/495584014934081538">
                             <FaDiscord />
                             <span className="sr-only">Discord</span>
                         </a>
