@@ -14,7 +14,7 @@ export default function Card() {
                 </div>
                 <div className="text-center mt-5">
                     <p className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-50">
-                        Hüseyin "Kaguwo" Yalçın
+                        Hüseyin "Nith" Yalçın
                     </p>
                     <p className="text-xs sm:text-base text-gray-400 pt-2 pb-4 px-5 w-58 inline-block border-b-2">
                         Front-End Developer
